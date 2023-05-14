@@ -11,7 +11,7 @@ email: wowapps@example.com
 description: > # this means to ignore newlines until "baseurl:"
   Put the photo to display.
 baseurl: "/jekyll-image-gallery-example" # the subpath of your site, e.g. /blog
-url: "//opieters.github.io" # the base hostname & protocol for your site
+url: "//photos.hostapp.in" # the base hostname & protocol for your site
 twitter_username: googlephotos
 github_username:  google
 
