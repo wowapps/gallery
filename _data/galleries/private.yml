@@ -1,0 +1,41 @@
+picture_path: private
+preview:
+  filename: image-1
+  original: image-1-507x338.jpg
+  sizes:
+  - image-1-507x338.jpg
+  thumbnail: image-1-thumbnail.jpg
+pictures:
+- filename: image-2
+  original: image-2-500x667.jpg
+  sizes:
+  - image-2-500x667.jpg
+  thumbnail: image-2-thumbnail.jpg
+- filename: image-3
+  original: image-3-390x260.png
+  sizes:
+  - image-3-390x260.png
+  thumbnail: image-3-thumbnail.jpg
+  title: Reep
+  caption: Pond Skaters by Lucifer Art Project & Spacemakers / with Lokeren and Avelgem youth clubs
+- filename: image-4
+  original: image-4-390x260.png
+  sizes:
+  - image-4-390x260.png
+  thumbnail: image-4-thumbnail.jpg
+  title: Baudelohof, Rembert Dodoensdreef
+  caption: Horizontal Interference by Katarzyna Malejka and Joachim Slugocki
+- filename: image-5
+  original: image-5-390x259.png
+  sizes:
+  - image-5-390x259.png
+  thumbnail: image-5-thumbnail.jpg
+  title: Muinkkaai (Het Technicum)
+  caption: Let's get visual by MSM
+- filename: image-6
+  original: image-6-640x757.jpg
+  sizes:
+  - image-6-640x757.jpg
+  thumbnail: image-6-thumbnail.jpg
+  title: Muinkkaai (Het Technicum)
+  caption: Let's get visual by MSM
